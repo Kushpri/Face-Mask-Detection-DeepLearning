@@ -36,5 +36,7 @@ This project also includes **beep alarm + voice alert**, log system & snapshot s
 
 ## 📂 Project Structure
 
+
 ### 🔗 Download Trained Model (.h5)
+
 Download model: https://drive.google.com/file/d/1T9bqXpkARFaoZdM45nHVsYJ-qbDIyVAw/view?usp=sharing
